@@ -1,6 +1,10 @@
 # engagement-prediction-mhhri
 
-![Pipeline](./Figure3.png "Text to show on mouseover")
+<figure>
+<p align="center" >
+<img src='./Figure 3.PNG' width=800 alt="Figure 1"/>
+</p>
+</figure>
 
 ## Contact:
 - soham.joshi@iiitb.ac.in
