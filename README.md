@@ -2,7 +2,7 @@
 
 <figure>
 <p align="center" >
-<img src='./Figure%203.PNG' width=800 alt="Pipeline"/>
+<img src='./Figure%203.png' width=800 alt="Pipeline"/>
 </p>
 </figure>
 
